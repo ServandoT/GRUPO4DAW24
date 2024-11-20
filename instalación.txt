@@ -1,14 +1,15 @@
 En este archivo explicaremos los pasos a seguir con sus comandos para realizar el despliegue del proyecto en cdmon mediante ssh.
 
 
-1. Acceder a cdmon e ir al apartado de Alojamiento para desarrolladores y activarlo.
-2. Abrir consola y poner el comando → ssh usuario(Te lo da en Alojamiento para desarrolladores)@nombreAlias.mialias.net
+1. Acceder al apartado SSH/SFTP y activar servicio SSH y poner una contraseña para entrar.
+2. Acceder a cdmon e ir al apartado de Alojamiento para desarrolladores y activarlo.
+3. Abrir consola y poner el comando → ssh usuario(Te lo da en Alojamiento para desarrolladores o en SSH/SFTP)@nombreAlias.mialias.net
 En el caso mio sería: ssh panchon9d@panchon.es.mialias.net
-3. Ponemos la contraseña que has tenido que crear la primera vez para activar el alojamiento para desarrolladores.
-4. pwd para ver donde estamos (estarás en entrada)
-5. Nos movemos a web para ello cd .. (para volver a la raiz)
-6. ls (para listar los ficheros y directorios y así ver si está web para entrar)
-7. cd web (entramos en web)
-8. mkdir nombreDirectorio (creamos un directorio donde meter el proyecto)
-9. cd nombreDirectorio (entramos en él)
-10. git clone direccion https del proyecto a clonar → con esto clonamos el proyecto ahí y ya habríamos desplegado el proyecto.
+4. Ponemos la contraseña que has tenido que crear en el apartado de conexion SSH/SFTP
+5. pwd para ver donde estamos (estarás en entrada)
+6. Nos movemos a web para ello cd .. (para volver a la raiz)
+7. ls (para listar los ficheros y directorios y así ver si está web para entrar)
+8. cd web (entramos en web)
+9. mkdir nombreDirectorio (creamos un directorio donde meter el proyecto)
+10. cd nombreDirectorio (entramos en él)
+11. git clone direccion https del proyecto a clonar → con esto clonamos el proyecto ahí y ya habríamos desplegado el proyecto.
