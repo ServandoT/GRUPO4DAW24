@@ -8,7 +8,7 @@ class Model {
         $mvc_bd_conexion = mysqli_connect($dbhost, $dbuser, $dbpass);
 
         if (!$mvc_bd_conexion) {
-            die('No ha sido posible realizar la conexión con la base de datos: ' . mysqli_error());
+            die('No ha sido posible realizar la conexión con la base de datos: ' . mysqli_connect_error());
         }
         mysqli_select_db($mvc_bd_conexion, $dbname);
 
