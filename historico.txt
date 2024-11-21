@@ -1,0 +1,17 @@
+Primero fase: 
+        - El integrante 1: Creó el repositorio de git para que cada integrante subiese su repositorio de git, y subio
+            los archivos al repositorio.
+        - El integrante 2: Creó la base de datos, dio los datos necesarios y subio los archivos a git.
+
+Segunda fase:
+        -El integrante 3: Modifico el archivo "Config.php", para conectar la base de datos creada por el integrante 2, y subio los archivos
+        modificados.
+
+Tercera fase:
+        - El integrante 1: Regogió las valoraciones de los integrantes y las escribio en un documento llamado
+            "valoraciones.txt"
+        - El integrante 2: Ya que git y github no permiten la creación de carpetas vacias, se vio forzado a usar 
+            cdmon y creo las carpetas que eran necesarias.
+        - El integrante 3: Creó el "historioco.txt".
+
+    Link: http://panchon.es.mialias.net/grupo4daw24/GRUPO4DAW24/web/index.php 
