@@ -11,7 +11,7 @@ Tercera fase:
         - El integrante 1: Regogió las valoraciones de los integrantes y las escribio en un documento llamado
             "valoraciones.txt"
         - El integrante 2: Ya que git y github no permiten la creación de carpetas vacias, se vio forzado a usar 
-            cdmon y creo las carpetas que eran necesarias.
+            cdmon y creo las carpetas que eran necesarias, también debido a un error inesperado el archivo index.php, el integrante 2                    investigo el error y lo soluciono modificando el index.
         - El integrante 3: Creó el "historioco.txt".
 
-    Link: "http://panchon.es.mialias.net/grupo4daw24/GRUPO4DAW24/web/index.php" 
+    Link: "http://panchon.es.mialias.net/grupo4daw24/GRUPO4DAW24/web" 
