@@ -1,8 +1,26 @@
-- Carlos González Agar:
-    - 
+-Carlos González Agar:
+    Mi experiencia como integrante 1 el trabajo es relativamente sencillo. La creación del
+    repositorio "GRUPO4DAW24" es un paso trivial desde GitHub. En cuanto a la adición de
+    colaboradores el proceso es el siguiente: Settings --> Collaborators y desde aquí añadir
+    los usuarios de GitHub que van a ser colaboradores.
 
-- Antonio Gutiérrez Cáceres:
-    - 
+    Una vez tenía el repositorio tuve que clonarlo en mi ordeandor usando git clone <ssh del
+    repositorio>. Una vez tengo la conexión con el repositorio abierta (git clone además de 
+    establecer la conexión bidireccional trae los archivos desde GitHub a mi pc) añado los archivos
+    que me correspondían, los sigo con git usando git add <archivo> y luego commit -m "mensaje"
+    para aplicar los cambios en local. Una vez están confirmados los cambios uso git push para 
+    subir los cambios al repositorio en GitHub. Haciendo este último paso me encontré con un 
+    problema: GitHub no permite crear directorios vacíos. Para mantener la estructura del 
+    proyecto el integrante 3 tendrá que crear desde cdmon las carpetas que faltan.
 
-- Juan Antonio primerApellido Panchón:
-    -
+-Antonio Gutiérrez Cáceres:
+    Mi valoración sobre todo se basa en el trabajo en equipo y en la utilidad de una organización
+    correcta, aunque el trabajo haya sido pequeño. Y en la parte de mi trabajo el uso de comandos
+    git me ha ayudado a refrescarlos y afianzar los conocimientos.
+
+- Juan Antonio Martín Panchón:
+    En cuanto a la valoración personal de Panchón, como integrante 2 es bastante 
+    positiva. Ha podido elegir ser el integrante 2 porque quería practicar la parte
+    de desplegar la web y practicar todos los comandos git asociados a eso.
+
+    Además, resalta la parte positiva de poder repasar todo lo respectivo al tema anterior usando cdmon.
