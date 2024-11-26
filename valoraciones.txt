@@ -11,7 +11,7 @@
     para aplicar los cambios en local. Una vez están confirmados los cambios uso git push para 
     subir los cambios al repositorio en GitHub. Haciendo este último paso me encontré con un 
     problema: GitHub no permite crear directorios vacíos. Para mantener la estructura del 
-    proyecto el integrante 3 tendrá que crear desde cdmon las carpetas que faltan.
+    proyecto el integrante 2 tendrá que crear desde cdmon las carpetas que faltan.
 
 -Antonio Gutiérrez Cáceres:
     Mi valoración sobre todo se basa en el trabajo en equipo y en la utilidad de una organización
